@@ -1,0 +1,25 @@
+h1{
+  background-color: yellow;
+}
+
+
+form{
+  text-align: left;
+  display: block;
+  margin: 1%;
+}
+
+input{
+  display: block;
+  margin: 1%;
+}
+
+textarea{
+  display: block;
+  margin: 1%;
+}
+
+button{
+  display: block;
+  margin: 1%;
+}
